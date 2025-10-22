@@ -22,7 +22,7 @@
     "@programisto/edrm-notifications": "^1.0.1",
     "@programisto/edrm-storage": "^1.0.2",
     "@programisto/edrm-user": "^0.4.17",
-    "@programisto/endurance-core": "1.1.11",
+    "@programisto/endurance-core": "1.1.14",
     "@typegoose/typegoose": "^12.17.0",
     "@types/multer": "^1.4.12",
     "axios": "^1.7.7",
